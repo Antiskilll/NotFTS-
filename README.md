@@ -1,6 +1,6 @@
 # TeamSpeak 3 Client Notification Plugin
 
-[![Build Status](https://travis-ci.org/svenpaulsen/ts3client-notification-plugin.svg?branch=master)](https://travis-ci.org/svenpaulsen/ts3client-notification-plugin)
+Rebuild
 
 This simple plugin sends desktop notifications when friends appear/disappear, when your nickname is mentioned 
 in the chat and when you're receiving private messages.
